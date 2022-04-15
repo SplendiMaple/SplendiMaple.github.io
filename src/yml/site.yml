@@ -1,0 +1,28 @@
+name: bakuturtle
+title: bakuturtle 
+description: This site is the place to posts with various tips related to development.
+tags:
+  - blog
+  - hacking
+  - linux
+  - window
+  - development
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+# not ready yet
+
+  # - title: Contact
+  #   url: /contact
+  - title: Feed
+    url: /feed.xml
+email: dbstjdghks25@gmail.com
+
+# See: https://disqus.com/
+# disqus_username: disqus_username
+# Contact Form Setting
+# See: https://formspree.io/
+# formspree_form_id: formspree_form_id
